@@ -30,6 +30,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amet7&show_icons=true&locale=en&layout=compact" alt="amet7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amet7&show_icons=true&locale=en" alt="amet7" /></p>
+
+<a href="https://github.com/ozerngg/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ozerngg&theme=dark">
+  <img alt="Shows Naze's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=ozerngg&theme=default">
+</picture>
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amet7&" alt="amet7" /></p>
